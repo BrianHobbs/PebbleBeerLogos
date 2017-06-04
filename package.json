@@ -1,0 +1,75 @@
+{
+    "author": "Brian Hobbs",
+    "dependencies": {},
+    "keywords": [],
+    "name": "beer-logos",
+    "pebble": {
+        "displayName": "Beer Logos",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/FlyingDog.png",
+                    "name": "LOGO_FLYINGDOG",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/yeastie boys.png",
+                    "name": "LOGO_YEASTIEBOYS",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/guiness.png",
+                    "name": "LOGO_GUINNESS",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/magic_rock_2.png",
+                    "name": "LOGO_MAGICROCK_2",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/brewdog.bmp",
+                    "name": "LOGO_BREWDOG",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/magic_rock.png",
+                    "name": "LOGO_MAGICROCK_1",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "fonts/Roboto-Regular.ttf",
+                    "name": "ROBOTO_REGULAR_24",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/Roboto-Regular.ttf",
+                    "name": "ROBOTO_REGULAR_48",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "7fdeec57-afec-4984-a986-ed160d4406d8",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
